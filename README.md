@@ -1,5 +1,6 @@
-[fur 1.20.1 fabric.zip](https://github.com/user-attachments/files/33298454/fur.1.20.1.fabric.zip)
+
 [mods.zip](https://github.com/user-attachments/files/33139514/mods.zip)
 [Furry材质包.zip](https://github.com/user-attachments/files/33139577/Furry.zip)
 https://space.bilibili.com/3706952693582021
 https://v.pixcheese.com/s/pu8PyQsdrux
+[fur mods.zip](https://github.com/user-attachments/files/33304590/fur.mods.zip)
