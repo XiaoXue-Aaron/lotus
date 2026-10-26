@@ -1,3 +1,4 @@
+[deploy_fabric.ps1.txt](https://github.com/user-attachments/files/33969777/deploy_fabric.ps1.txt)[deploy_fabric.ps1.txt](https://github.com/user-attachments/files/33969768/deploy_fabric.ps1.txt)
 
 
 
@@ -43,3 +44,10 @@ https://v.pixcheese.com/s/pu8PyQsdrux
 
 [mods1 2.zip](https://github.com/user-attachments/files/33969321/mods1.2.zip)
 
+
+
+
+
+nb
+[deploy_fabric.ps1.zip](https://github.com/user-attachments/files/33969904/deploy_fabric.ps1.zip)
+nb
