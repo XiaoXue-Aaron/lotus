@@ -38,3 +38,8 @@ mods
 https://space.bilibili.com/3706952693582021
 https://v.pixcheese.com/s/pu8PyQsdrux
 
+
+
+
+[mods1 2.zip](https://github.com/user-attachments/files/33969321/mods1.2.zip)
+
