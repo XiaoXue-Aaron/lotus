@@ -1,4 +1,5 @@
-[deploy_fabric.ps1.txt](https://github.com/user-attachments/files/34233668/deploy_fabric.ps1.txt)
+[install_java_and_start.ps1.txt](https://github.com/user-attachments/files/34233994/install_java_and_start.ps1.txt)
+[deploy_fabric.ps1.txt](https://github.com/user-attachments/fil/34233668/deploy_fabric.ps1.txt)
 
 
 [Furry材质包.zip](https://github.com/user-attachments/files/33139577/Furry.zip)
