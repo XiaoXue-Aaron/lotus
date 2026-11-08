@@ -63,5 +63,7 @@ npx @deepseek-ai/dsh web
 
 
 重启deepseek，输入：启动游戏，加入服务器2b2t.gg
+
+
 玩mc参考
 https://www.bilibili.com/video/BV1r9eU6FEQt/
