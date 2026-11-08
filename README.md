@@ -41,3 +41,23 @@ https://v.pixcheese.com/s/pu8PyQsdrux
 nb
 https://mod.sail814.top/
 nb
+
+
+能玩mc的deepseek下载
+
+npm 一键启动（官方主推，跨平台）
+
+ 
+这是官方推荐的命令行方式，适合所有系统（Windows / macOS / Linux）。
+
+
+1. 安装 Node.js：前往 nodejs.org 下载并安装。DSH 要求 Node.js ≥ 22.19.0 或 24.x 及以上 版本。‌￼
+
+
+2. 执行命令：打开终端（Windows 用 cmd 或 PowerShell），输入以下命令并回车：
+npx @deepseek-ai/dsh web
+程序会自动下载依赖并启动，浏览器随后会自动打开 http://127.0.0.1:3080 界面。‌￼
+
+
+玩mc参考
+https://www.bilibili.com/video/BV1r9eU6FEQt/
