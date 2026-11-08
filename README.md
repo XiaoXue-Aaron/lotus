@@ -59,5 +59,9 @@ npx @deepseek-ai/dsh web
 程序会自动下载依赖并启动，浏览器随后会自动打开 http://127.0.0.1:3080 界面。‌￼
 
 
+在里面输入：帮我安装插件，地址是 github:blueziii/dsh-mc-agent
+
+
+重启deepseek，输入：启动游戏，加入服务器2b2t.gg
 玩mc参考
 https://www.bilibili.com/video/BV1r9eU6FEQt/
