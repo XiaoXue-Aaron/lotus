@@ -51,7 +51,7 @@ npm 一键启动（官方主推，跨平台）
 这是官方推荐的命令行方式，适合所有系统（Windows / macOS / Linux）。
 
 
-1. 安装 Node.js：前往 nodejs.org 下载并安装。DSH 要求 Node.js ≥ 22.19.0 或 24.x 及以上 版本。‌￼
+1. 安装 Node.js：前往 https://nodejs.org 下载并安装。DSH 要求 Node.js ≥ 22.19.0 或 24.x 及以上 版本。‌￼
 
 
 2. 执行命令：打开终端（Windows 用 cmd 或 PowerShell），输入以下命令并回车：
